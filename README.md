@@ -4,7 +4,8 @@
 A simple Flutter app that measures internet download speed using the `speed_test_dart` package and displays the result using `syncfusion_flutter_gauges`.
 
 ## Screen Short
-![Main Screen]()
+![Main Screen](https://github.com/R-lab37/internet_speed_etster/blob/main/images/app_screen.png)
+
 ## Getting Started
 
 ### Prerequisites
